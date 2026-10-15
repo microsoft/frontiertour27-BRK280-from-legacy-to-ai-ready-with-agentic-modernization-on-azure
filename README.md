@@ -1,10 +1,10 @@
 <a name="start-building"></a>
 
 <p align="center">
-<img src="img/banner-ai-tour-27.png" alt="Microsoft AI Tour 2027" width="100%"/>
+<img src="img/banner-frontier-tour-27.png" alt="Microsoft Frontier Tour 2027" width="100%"/>
 </p>
 
-# [Microsoft AI Tour 2027](https://aitour.microsoft.com)
+# [Microsoft Frontier Tour 2027](https://aitour.microsoft.com)
 
 ### Session description
 
@@ -29,7 +29,7 @@ All demos in this session are pre-recorded. The [session recording](https://aka.
 If you're following along during a live session:
 
 1. Watch the four demo videos as the presenter narrates them. Nothing needs to be installed during the session.
-2. Bookmark this [repo](https://aka.ms/aitour27/BRK280) (or scan the QR code on the closing slide).
+2. Bookmark this [repo](https://aka.ms/ft27/brk280) (or scan the QR code on the closing slide).
 3. Optional: After understanding the session, open [`src/`](src/README.md) to run the upgrade on your own machine.
 
 #### On your own
