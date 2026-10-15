@@ -12,7 +12,7 @@ Almost every enterprise has a legacy portfolio that everyone knows needs work an
 
 ### 🎬 Session videos
 
-All demos in this session are pre-recorded. The [session recording](https://aka.ms/aitour27/brk280/youtube) contains the videos in order:
+All demos in this session are pre-recorded. The [session recording](https://aka.ms/ft27/brk280/youtube) contains the videos in order:
 
 | # | Video | What you'll see |
 |---|---|---|
@@ -64,8 +64,8 @@ Pick your next step based on your learning style:
 
 | Resource | What you'll get |
 |----------|-----------------|
-| **[Session Recording](https://aka.ms/aitour27/brk280/youtube)** | A recording of session BRK280 by the session creator |
-| Slides: **[English](https://aka.ms/aitour27/BRK280/slides/en)** | Session slides for BRK280. More languages coming soon! |
+| **[Session Recording](https://aka.ms/ft27/brk280/youtube)** | A recording of session BRK280 by the session creator |
+| Slides: **[English](https://aka.ms/ft27/brk280/slides/en)** | Session slides for BRK280. More languages coming soon! |
 | **[GitHub Copilot modernization docs](https://aka.ms/ghcp-modernization)** | The official starting point for assessments, upgrades, custom skills, and the Modernize CLI |
 | **[.NET Modernization for Beginners](https://aka.ms/ghcp-appmod/dotnet-mod-beginners)** | A guided, step-by-step course for modernizing a .NET app with GitHub Copilot |
 | **[What's new in agentic modernization](https://aka.ms/agentic-modernization/build-blog)** | The full list of new features |
